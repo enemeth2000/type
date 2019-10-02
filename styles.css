@@ -1,0 +1,30 @@
+/* Type */
+
+body {
+	background-color: deeppink;
+	color: cyan;
+	font-family: sans-serif;
+	line-height: .1;
+    font-size: 8em;
+}
+.new-color {
+	color: cyan;
+}
+.new-color {
+	color: darkviolet;
+}
+.other-font {
+	font-family: sans-serif;
+}
+
+p {
+	font-size: 8em;
+	color: cyan;
+	outline-color: cyan;
+	font-family: sans-serif;
+}
+
+.new-color {
+	color: yellow;
+}
+
